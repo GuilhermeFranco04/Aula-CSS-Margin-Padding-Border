@@ -1,0 +1,16 @@
+p {
+    margin: 30px 15px;
+    padding: 20px 9px 19px 3px;
+    background-color: blueviolet;
+    border: solid; /*20px;*/
+    border-color: red;
+    border-width: 20px;
+    
+    border-color: blue cyan orange green;
+}
+h1 {
+    border: solid;
+    border-width: 20px;
+    border: hidden;   
+    border-color: blue cyan orange green;
+}
