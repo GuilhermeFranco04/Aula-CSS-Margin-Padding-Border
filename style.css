@@ -10,7 +10,7 @@ p {
 }
 h1 {
     border: solid;
-    border-width: 20px;
+    border-width: 30px;
     border: hidden;   
     border-color: blue cyan orange green;
 }
